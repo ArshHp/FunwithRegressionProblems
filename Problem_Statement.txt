@@ -1,0 +1,12 @@
+The dataset attached contains the data of 160 different bags associated with ABC industries. The bags have certain attributes which are described below:
+1.	Height – The height of the bag
+2.	Width – The width of the bag
+3.	Length – The length of the bag
+4.	Weight – The weight the bag can carry
+5.	Weight1 – Weight the bag can carry after expansion
+ 
+The company now wants to predict the cost they should set for a new variant of these kinds of bags based on the attributes below. As a result, they want you to build a prediction model which can correctly set the cost of the bag provided the attributes are given. The task involves the following things:
+•	Analyse the dataset and do EDA(Exploratory Data Analysis) 
+•	Plotting of various graphs & correlations 
+•	Model Building using Multiple Linear Regression 
+•	Calculating the R squared, RMSE and MSE for the model 
